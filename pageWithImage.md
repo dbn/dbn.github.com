@@ -1,4 +1,11 @@
 This is a page with an image
 
 
-![Map]: (https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/1024px-World_Map_1689.JPG)
+[Link to page 3](page3.md)
+Text
+[Link to page 4](page4.md)
+TextTextTextText
+[Link to page 5](page4.md)
+TextText
+TextText
+TextText
