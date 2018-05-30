@@ -1,1 +1,1 @@
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[Map]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/1024px-World_Map_1689.JPG "Logo Title Text 2"
