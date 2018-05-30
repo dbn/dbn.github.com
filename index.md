@@ -1,5 +1,6 @@
-THis is an example of an statuc HTML site for home assignment.
+THis is an index page
 
+[Page with image](pageWithImage.md)
 
+[page 1](page1.md)
 
-[I'm an inline-style link](pageWithImage.md)
