@@ -8,7 +8,7 @@ This is a page with an image
 Text
 [Link to page 4](page4.md)
 TextTextTextText
-[Link to page 5](page4.md)
+[Link to page 5](page5.md)
 TextText
 TextText
 TextText
